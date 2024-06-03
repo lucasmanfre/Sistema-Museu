@@ -1,0 +1,2 @@
+titulo=O Grito, artista=Edvard Munch, anoCriacao=1893, tipoObra=Pintura, localizaçao=Museu Nacional-Oslo
+titulo=Mona Lisa, artista=Leonardo Da Vinci, anoCriacao=1503, tipoObra=Pintura, localizaçao=Louvre
